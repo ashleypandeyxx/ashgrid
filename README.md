@@ -2,7 +2,7 @@
 
 **A platform for running structured self-experiments and reading the results honestly.**
 
-[**Try it → ashgrid.co**](https://ashgrid.co) · iOS (App Store) and web · US, adults 18+
+[**Try it → ashgrid.co**](https://ashgrid.co) · Web app live · iOS build in progress · US, adults 18+
 
 People already experiment on themselves — a new supplement, an earlier caffeine cutoff, ten
 minutes of morning light. What's usually missing is the part that makes it an actual
