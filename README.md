@@ -59,7 +59,6 @@ with PostgreSQL for storage. Statistics are computed with NumPy and SciPy.
 AshGrid is a personal observation tool for adults in the United States. It is not a medical
 device and does not provide medical advice, diagnosis, or treatment.
 
-The source is private since the app handles personal health data. Happy to walk through the
-architecture or the code in an interview.
+The source is private since the app handles personal health data. 
 
 Built by [Ashley Pandey](https://github.com/ashleypandeyxx)
